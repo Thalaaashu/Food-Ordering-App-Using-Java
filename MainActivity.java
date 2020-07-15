@@ -1,4 +1,4 @@
-package com.ashikrabbani.oresturent;
+package com.ashishsingh.oresturent;
 
 import android.app.Activity;
 import android.app.AlertDialog;
