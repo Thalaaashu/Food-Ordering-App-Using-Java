@@ -1,4 +1,4 @@
-package com.ashikrabbani.oresturent;
+package com.ashishsingh.oresturent;
 
 import android.Manifest;
 import android.app.Activity;
